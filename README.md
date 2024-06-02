@@ -1,6 +1,8 @@
 # Model Architecture and Parameters
 
-This section provides an overview of the model architecture and the number of parameters for each layer.
+
+This README format includes detailed explanations of how the parameters for each layer are calculated, making it easier to understand the architecture and the reasoning behind the parameter counts.
+
 
 ## Model Layers
 
